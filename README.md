@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Next.js and advanced React patterns**
 - 👯 I’m looking to collaborate on **innovative web applications**
 - 💬 Ask me about **React, TypeScript, or modern CSS frameworks**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **shourvarziamirreza@gmail.com**
 - ⚡ Fun fact: **I can center a div with my eyes closed!**
 
 ---
@@ -50,16 +50,16 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amirrezash0n&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezash0n&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezash0n&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amirrezash0n&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -85,10 +85,10 @@ Here are some of my notable projects:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=amirrezash0n&label=Profile%20Views&color=0e75b6&style=flat" alt="amirrezash0n" />
+  <a href="https://github.com/amirrezash0n?tab=followers"><img src="https://img.shields.io/github/followers/amirrezash0n?label=Follow&style=social" alt="GitHub Followers"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+Visiting!&fontSize=30&fontAlignY=65" /></a>
+  <a href="https://github.com/amirrezash0n"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+Visiting!&fontSize=30&fontAlignY=65" /></a>
 </p>
