@@ -74,50 +74,14 @@ Here are some of my notable projects:
 
 ---
 
----
-
 ## 🌐 Connect with Me
-
-<div align="center">
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/yourusername" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="LinkedIn" width="50" height="50"/>
-</a>
-
-<!-- Telegram -->
-<a href="https://t.me/yourusername" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/telegram-app.png" alt="Telegram" width="50" height="50"/>
-</a>
-
-<!-- Instagram -->
-<a href="https://instagram.com/yourusername" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/instagram.png" alt="Instagram" width="50" height="50"/>
-</a>
-
-<!-- Email -->
-<a href="mailto:youremail@example.com" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="Email" width="50" height="50"/>
-</a>
-
-<!-- Phone -->
-<a href="tel:+989123456789" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/phone.png" alt="Phone" width="50" height="50"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/yourusername" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" width="50" height="50"/>
-</a>
-
-</div>
 
 <div align="center" style="margin-top: 20px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat-square&logo=telegram)](https://t.me/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/amirreza-shourvarzi-007b82320/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat-square&logo=telegram)](https://t.me/amirrezashon)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://instagram.com/amirrezash0n)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:youremail@shourvarziamirreza@gmail.com)
 
 </div>
 ---
