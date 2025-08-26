@@ -76,38 +76,20 @@ Here are some of my notable projects:
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/amirreza-shourvarzi-007b82320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirreza-shourvarzi-007b82320/" 
-  <!-- Email -->
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/your_username" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://instagram.com/your_username" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <!-- Phone -->
-  <a href="tel:+989123456789" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-</p>
+### 📞 Connect with Me
 
-<p align="center" style="margin-top: 15px;">
-  <!-- LinkedIn (اختیاری) -->
-  <a href="https://linkedin.com/in/your_username" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40" />
   </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/your_username" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://t.me/your_username" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/your_username" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="tel:+989123456789" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" width="40" height="40" />
   </a>
 </p>
 ---
