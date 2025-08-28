@@ -69,8 +69,6 @@
 Here are some of my notable projects:
 
 - **[NexusAdmin](https://github.com/amirrezash0n/NexusAdmin)** - Nexus Admin Panel created by the ultimate react 
-- **[Project 2 Name](https://github.com/YOUR_USERNAME/PROJECT_2)** - Short description of your project
-- **[Project 3 Name](https://github.com/YOUR_USERNAME/PROJECT_3)** - Short description of your project
 
 ---
 
