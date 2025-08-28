@@ -82,7 +82,6 @@ Here are some of my notable projects:
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:youremail@shourvarziamirreza@gmail.com)
 
 </div>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirrezash0n&label=Profile%20Views&color=0e75b6&style=flat" alt="amirrezash0n" />
