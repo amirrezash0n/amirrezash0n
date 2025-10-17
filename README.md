@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, World! I'm Amirreza</h1>
-<h3 align="center">A passionate Frontend Developer from [Iran , Tehran]</h3>
+<h3 align="center">A passionate Frontend Developer from Iran , Tehran</h3>
 <br>
 
 <p align="center">
