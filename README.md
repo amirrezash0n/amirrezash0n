@@ -94,9 +94,9 @@ const amirreza = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirrezash0n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FD295C&icon_color=FD295C&text_color=F6F6F6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezash0n&theme=radical&hide_border=true&background=0D1117&ring=FD295C&fire=FD295C&currStreakLabel=FD295C" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=amirrezash0n&theme=radical&hide_border=true&background=0D1117&ring=FD295C&fire=FD295C&currStreakLabel=FD295C" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezash0n&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FD295C&line=FD295C&point=F6F6F6" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezash0n&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FD295C&line=FD295C&point=F6F6F6&t=2" />
 
 </div>
 
@@ -107,10 +107,10 @@ const amirreza = {
 <div align="center">
 
 <a href="https://github.com/amirrezash0n/Vizion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirrezash0n&repo=Vizion&theme=radical&hide_border=true&bg_color=0D1117&title_color=FD295C&icon_color=FD295C&text_color=F6F6F6" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=amirrezash0n&repo=Vizion&theme=radical&hide_border=true&bg_color=0D1117&title_color=FD295C&icon_color=FD295C&text_color=F6F6F6" />
 </a>
 <a href="https://github.com/amirrezash0n/gatehub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirrezash0n&repo=gatehub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FD295C&icon_color=FD295C&text_color=F6F6F6" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=amirrezash0n&repo=gatehub&theme=radical&hide_border=true&bg_color=0D1117&title_color=FD295C&icon_color=FD295C&text_color=F6F6F6" />
 </a>
 
 </div>
