@@ -50,16 +50,15 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amirrezash0n&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezash0n&theme=radical&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=amirrezash0n&label=Profile%20Views&color=FD295C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amirrezash0n?label=Followers&style=for-the-badge&color=FD295C&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/amirrezash0n?label=Stars&style=for-the-badge&color=FD295C&logo=github" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezash0n&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirrezash0n&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Repositories-40+-FD295C?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Contributions-Active-FD295C?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-FD295C?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
 </p>
 
 ---
