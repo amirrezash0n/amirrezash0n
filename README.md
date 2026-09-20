@@ -68,7 +68,7 @@
 
 Here are some of my notable projects:
 
-- **[NexusAdmin](https://github.com/amirrezash0n/NexusAdmin)** - Nexus Admin Panel created by the ultimate react 
+- **[Vizion](https://github.com/amirrezash0n/Vizion)** - Vizion Panel created by the ultimate react 
 - **[GateHub](https://github.com/amirrezash0n/gatehub)** - GateHub Form created by the ultimate react
 - **[Oxcare](https://github.com/amirrezash0n/oxcare)** - Oxcare is a landing page created by the ultimate react 
 ---
