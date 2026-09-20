@@ -50,13 +50,16 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrezash0n&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrezash0n&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirrezash0n&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FD295C&icon_color=FD295C&text_color=F6F6F6&ring_color=FD295C" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezash0n&hide_border=true&background=0D1117&ring=FD295C&fire=FD295C&currStreakLabel=FD295C&sideLabels=F6F6F6&dates=A5A5A5" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrezash0n&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirrezash0n&theme=radical" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirrezash0n&hide_border=true&bg_color=0D1117&color=FD295C&line=FD295C&point=F6F6F6&area=true&area_color=FD295C&title_color=F6F6F6" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=amirrezash0n&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
