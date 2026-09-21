@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://linkedin.com/in/amirreza-shourvarzi-007b82320/">
+<a href="https://www.linkedin.com/in/amirrezashourvarzi/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/amirrezashon">
